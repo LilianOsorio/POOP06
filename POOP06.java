@@ -11,9 +11,7 @@ package fi.poo;
 public class POOP06 {
 
     public static void main(String[] args) {
+        System.out.println("Hola mundo");
+    }
     
-    System.out.println("Hola Mundo");
-    Persona persona = new Persona("Lilian", "iztapalapa 166", 20);
-    persona.hablar("Hola soy una persona ");
-    }    
 }
